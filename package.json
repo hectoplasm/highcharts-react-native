@@ -1,10 +1,10 @@
 {
-  "name": "@highcharts/highcharts-react-native",
-  "version": "3.1.7",
+  "name": "@hepatorin/highcharts-react-native",
+  "version": "0.0.1",
   "license": "SEE LICENSE IN <LICENSE>",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/highcharts/highcharts-react-native-official.git"
+    "url": "git+https://github.com/hepatorin/highcharts-react-native.git"
   },
   "dependencies": {
     "expo": "^43.0.5",
@@ -18,12 +18,12 @@
   ],
   "description": "Highcharts react native wrapper",
   "bugs": {
-    "url": "https://github.com/highcharts/highcharts-react-native"
+    "url": "https://github.com/hepatorin/highcharts-react-native"
   },
   "contributors": [
     "Héctor Paredes <h3c10r@hotmail.com>"
   ],
-  "homepage": "https://github.com/highcharts/highcharts-react-native#readme",
+  "homepage": "https://github.com/hepatorin/highcharts-react-native.git#readme",
   "author": "Héctor",
   "peerDependencies": {
     "react": "~18.2.0",
