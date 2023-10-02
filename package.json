@@ -7,7 +7,7 @@
     "url": "git+https://github.com/hepatorin/highcharts-react-native.git"
   },
   "dependencies": {
-    "expo": "^43.0.5",
+    "expo": "^49.0.13",
     "metro-config": "^0.60.0"
   },
   "keywords": [
