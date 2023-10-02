@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "expo": "^49.0.13",
-    "metro-config": "^0.60.0"
+    "metro-config": "^0.79.1"
   },
   "keywords": [
     "highcharts",
